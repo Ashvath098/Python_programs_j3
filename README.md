@@ -1,5 +1,5 @@
 # Python_programs_j3
-## steps to upload files from locl to repo
+## steps to upload files from local to repo
 1. select repo option
 2. choose file where it is located or drag and drop
 3. commit changes
